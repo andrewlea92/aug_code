@@ -1,1 +1,1 @@
-# aug_code
+This project performs bounding-box aware data augmentation for object detection tasks (e.g., YOLO, SSD), applied on Pascal VOC-style datasets. Features include visualization, category balancing, and custom augmentation pipelines.
